@@ -1,0 +1,201 @@
+Score,Primary Screen Usage,Most Distracting Activity,Most Productive Time,Balance Strategy,Concentration Impact (1-5),Importance of Reduction (1-5),Screen Time (Hours),App/Tool Usage,Break Frequency Scale,Sleep Quality Impact,Screens help me learn new skills. (Likert),I feel addicted to my screen. (Likert),I experience eye strain or headaches from screen use. (Likert)
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Afternoon,"None can do, Took the wrong stream maybe",3,4,9,0,1,3,3,2,4
+NA,Social media,Messaging apps,Evening,NA,4,3,9,1,1,1,3,4,4
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Early morning,screen usage should be majorly for academics/work-related and less for entertainment purposes,3,4,5,0,NA,3,4,4,4
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Afternoon,Read physical books and take consistent breaks,2,5,7,1,NA,3,1,3,1
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Evening,NA,2,5,9,0,3,2,3,5,2
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Evening,NA,2,4,5,0,NA,0,4,3,2
+NA,Social media,Messaging apps,Early morning,sleep,2,4,9,1,3,2,1,4,3
+NA,Academic/Work-related tasks,Social media notifications,Evening,Use screen for positive work and entertainment should be at the end of day as reward,3,5,9,0,4,2,4,4,4
+NA,Academic/Work-related tasks,Online videos/streaming,Late morning,NA,3,3,9,0,4,1,4,4,3
+NA,Social media,Social media notifications,Early morning,Keep an app like forest on your phone,1,4,5,0,4,0,4,5,4
+NA,Social media,Online videos/streaming,NA,NA,4,3,3,1,4,2,3,NA,NA
+NA,Academic/Work-related tasks,Online videos/streaming,Early morning,NA,4,4,3,0,NA,1,3,3,3
+NA,Academic/Work-related tasks,Online videos/streaming,Late morning,We should use less mobile.,4,4,5,1,NA,0,3,3,3
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Night,NA,2,2,3,0,NA,1,1,3,2
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Evening,Delete social media apps,2,5,5,0,1,2,4,4,5
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Night,NA,2,4,5,0,1,2,3,3,4
+NA,"Entertainment (movies, gaming, etc.)",Gaming,Night,Pressure and deadlines,3,5,7,0,1,1,4,5,5
+NA,Academic/Work-related tasks,Messaging apps,Evening,Time management,3,3,7,0,NA,1,4,2,4
+NA,Academic/Work-related tasks,Social media notifications,Early morning,NA,4,2,1,1,4,0,3,2,2
+NA,Online shopping/browsing,Gaming,Night,NA,2,5,7,1,4,1,3,1,3
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Evening,NA,3,3,7,1,NA,2,2,3,1
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Early morning,NA,3,4,7,0,NA,2,2,2,2
+NA,Social media,Gaming,Afternoon,NA,3,1,7,0,1,0,2,3,1
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Night,NA,4,1,5,0,1,3,2,1,3
+NA,Online shopping/browsing,Online videos/streaming,Afternoon,Pomodoro Technique,4,3,3,0,NA,2,2,1,1
+NA,Social media,Social media notifications,Night,NA,4,2,5,0,NA,1,4,2,2
+NA,Other (please specify),Messaging apps,Night,self control,2,5,5,0,NA,0,4,2,1
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Night,NA,3,4,7,1,4,2,4,5,5
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Night,Gym,1,2,9,0,4,3,5,5,5
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Afternoon,Proper breaks,4,5,7,0,3,2,4,3,4
+NA,Social media,Online videos/streaming,Afternoon,No phone,3,1,9,0,NA,2,4,4,4
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Night,Try to engage in other activities,2,4,5,0,NA,2,4,4,5
+NA,Academic/Work-related tasks,Gaming,Night,NA,4,1,7,0,3,2,3,3,3
+NA,Social media,Social media notifications,Night,Limit the max usage,1,5,5,0,4,3,3,5,5
+NA,Social media,Social media notifications,Night,NA,2,3,7,0,NA,3,3,5,4
+NA,Academic/Work-related tasks,Social media notifications,Early morning,Time blocks,2,5,7,0,3,3,5,4,5
+NA,Academic/Work-related tasks,Social media notifications,Late morning,NA,2,3,9,1,3,2,4,3,3
+NA,Academic/Work-related tasks,Social media notifications,Evening,NA,2,3,9,1,3,2,5,4,3
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Switch off the phone,3,4,7,0,NA,2,3,2,4
+NA,Academic/Work-related tasks,Social media notifications,Evening,NA,2,3,9,1,4,2,5,4,3
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Night,NA,3,3,7,0,NA,2,4,4,3
+NA,Social media,Social media notifications,Night,Physical activities,4,5,7,0,1,2,3,3,3
+NA,Academic/Work-related tasks,Social media notifications,Evening,An app or something,4,4,9,0,4,1,1,1,2
+NA,"Entertainment (movies, gaming, etc.)",Messaging apps,Late morning,Pomodoro,2,3,5,1,NA,0,1,2,1
+NA,Online shopping/browsing,Social media notifications,Late morning,NA,2,2,5,1,NA,3,2,1,3
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Night,Busy in work,1,5,5,NA,4,1,4,4,3
+NA,Academic/Work-related tasks,Social media notifications,Night,NA,3,3,7,1,NA,1,4,4,4
+NA,Academic/Work-related tasks,Social media notifications,Evening,NA,2,4,9,0,NA,2,5,4,3
+NA,Academic/Work-related tasks,Online videos/streaming,Night,Spectacles,3,3,7,0,3,2,4,2,4
+NA,Academic/Work-related tasks,Social media notifications,Night,discipline,3,4,7,0,4,2,1,2,1
+NA,Other,Multitasking between tabs/apps,Evening,Write a daily focus plan,3,4,7,1,3,1,4,4,4
+NA,Social media,Messaging apps,Afternoon,Turn off notifications during deep work,4,3,1,0,4,1,3,3,4
+NA,Academic/Work-related tasks,Gaming,Late morning,Use Pomodoro (25/5),2,3,5,1,NA,1,3,4,3
+NA,Social media,Online videos/streaming,Late morning,Keep phone in another room,3,4,5,0,NA,3,4,2,4
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Keep phone in another room,4,2,7,0,3,1,2,4,2
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Write a daily focus plan,4,4,7,0,1,3,NA,NA,4
+NA,Academic/Work-related tasks,Social media notifications,Evening,Use Pomodoro (25/5),2,4,9,1,3,2,NA,NA,4
+NA,Social media,Multitasking between tabs/apps,Afternoon,Turn off notifications during deep work,3,4,3,0,NA,0,3,3,3
+NA,Academic/Work-related tasks,Gaming,Afternoon,Schedule screen-free breaks,3,4,5,1,1,1,2,4,4
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Late morning,Use blue-light filter at night,3,5,1,1,1,3,NA,3,2
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Early morning,Batch notifications and emails,5,3,5,0,NA,3,3,4,4
+NA,Social media,Social media notifications,Late morning,Use blue-light filter at night,4,3,5,1,3,2,NA,3,3
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Write a daily focus plan,2,3,1,1,3,0,2,3,3
+NA,Online shopping/browsing,Social media notifications,Late morning,Use blue-light filter at night,4,3,3,1,1,1,3,3,4
+NA,"Entertainment (movies, gaming, etc.)",Gaming,Afternoon,Batch notifications and emails,5,3,7,1,1,2,4,NA,2
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Early morning,Schedule screen-free breaks,4,5,7,1,NA,3,4,4,2
+NA,Academic/Work-related tasks,Messaging apps,Late morning,Use app blockers during study hours,2,5,5,0,1,0,3,4,2
+NA,Social media,Online videos/streaming,Afternoon,Single-task with full-screen apps,3,3,7,1,NA,1,4,3,4
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Turn off notifications during deep work,4,3,7,0,1,3,3,3,2
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Early morning,Set a fixed work window,2,4,1,1,NA,2,3,3,NA
+NA,Online shopping/browsing,Multitasking between tabs/apps,Late morning,Batch notifications and emails,4,3,7,1,NA,1,4,4,NA
+NA,Social media,Multitasking between tabs/apps,Afternoon,Turn off notifications during deep work,4,4,7,1,1,2,4,3,NA
+NA,Academic/Work-related tasks,Gaming,Late morning,Schedule screen-free breaks,2,4,5,1,NA,2,4,4,3
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Late morning,Write a daily focus plan,3,2,3,1,3,2,3,NA,3
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Late morning,Use blue-light filter at night,1,5,9,1,1,2,2,4,3
+NA,Academic/Work-related tasks,Online videos/streaming,Evening,Single-task with full-screen apps,2,5,5,0,1,1,NA,3,4
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Schedule screen-free breaks,3,3,3,1,3,2,4,NA,3
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Afternoon,Use Pomodoro (25/5),2,3,3,1,NA,2,3,3,4
+NA,Academic/Work-related tasks,Gaming,Evening,Use app blockers during study hours,5,4,7,1,3,2,NA,NA,3
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Evening,Batch notifications and emails,2,4,7,0,NA,1,4,2,3
+NA,"Entertainment (movies, gaming, etc.)",Gaming,Late morning,Write a daily focus plan,3,4,7,0,NA,3,NA,2,3
+NA,Social media,Social media notifications,Early morning,Use Pomodoro (25/5),3,5,7,1,1,3,4,3,3
+NA,Other,Gaming,Late morning,Use Pomodoro (25/5),5,3,7,1,3,2,NA,3,4
+NA,Academic/Work-related tasks,Social media notifications,Evening,Use app blockers during study hours,2,3,9,1,NA,2,NA,NA,NA
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Evening,Schedule screen-free breaks,4,2,5,1,3,0,3,4,2
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Night,Use app blockers during study hours,3,3,7,1,4,3,4,3,4
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Late morning,Keep phone in another room,2,3,7,1,NA,0,4,4,3
+NA,Academic/Work-related tasks,Gaming,Afternoon,Schedule screen-free breaks,4,5,7,1,NA,1,NA,NA,3
+NA,Academic/Work-related tasks,Messaging apps,Afternoon,Schedule screen-free breaks,3,3,9,1,NA,2,3,4,3
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Set a fixed work window,3,4,7,1,1,2,4,4,4
+NA,Academic/Work-related tasks,Gaming,Late morning,Turn off notifications during deep work,3,3,7,0,4,0,NA,2,3
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Use Pomodoro (25/5),3,5,1,1,NA,1,2,NA,2
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Use blue-light filter at night,3,5,5,0,NA,0,3,4,3
+NA,Online shopping/browsing,Social media notifications,Early morning,Batch notifications and emails,4,3,5,1,NA,1,2,3,2
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Keep phone in another room,5,3,3,0,3,0,3,4,4
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Afternoon,Keep phone in another room,2,5,5,1,NA,0,4,NA,NA
+NA,Social media,Multitasking between tabs/apps,Late morning,Batch notifications and emails,5,4,3,0,NA,1,NA,4,4
+NA,Academic/Work-related tasks,Social media notifications,Early morning,Single-task with full-screen apps,1,5,5,1,NA,1,4,4,4
+NA,Other,Online videos/streaming,Late morning,Use app blockers during study hours,3,4,7,1,4,2,NA,3,3
+NA,"Entertainment (movies, gaming, etc.)",Messaging apps,Early morning,Single-task with full-screen apps,4,3,5,1,1,1,2,3,4
+NA,Other,Multitasking between tabs/apps,Afternoon,Single-task with full-screen apps,3,4,5,1,NA,1,2,4,NA
+NA,Online shopping/browsing,Messaging apps,Early morning,Set a fixed work window,3,5,5,1,NA,2,4,3,4
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Late morning,Turn off notifications during deep work,3,4,5,0,NA,2,4,3,NA
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Batch notifications and emails,3,4,9,1,3,3,4,3,2
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Early morning,Use Pomodoro (25/5),3,5,7,0,1,2,2,4,3
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Batch notifications and emails,4,5,7,1,3,1,4,4,3
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Early morning,Use Pomodoro (25/5),4,5,3,1,NA,2,2,4,4
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Use blue-light filter at night,3,4,7,0,1,0,4,3,2
+NA,Academic/Work-related tasks,Social media notifications,Early morning,Turn off notifications during deep work,4,3,3,1,4,3,4,3,3
+NA,Other,Messaging apps,Late morning,Set a fixed work window,4,4,5,1,3,2,3,2,2
+NA,Academic/Work-related tasks,Online videos/streaming,Late morning,Write a daily focus plan,4,5,9,1,NA,1,3,3,3
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Late morning,Batch notifications and emails,4,3,7,1,4,0,3,4,2
+NA,Academic/Work-related tasks,Online videos/streaming,Evening,Write a daily focus plan,2,4,7,0,3,2,4,4,2
+NA,Academic/Work-related tasks,Messaging apps,Late morning,Batch notifications and emails,3,3,7,1,3,1,4,2,2
+NA,Other,Messaging apps,Evening,Batch notifications and emails,4,4,7,0,4,3,3,4,2
+NA,Other,Online videos/streaming,Evening,Schedule screen-free breaks,4,5,7,0,3,1,4,NA,4
+NA,Social media,Social media notifications,Late morning,Turn off notifications during deep work,3,4,5,0,1,0,3,4,2
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Early morning,Batch notifications and emails,3,4,1,1,3,0,3,NA,NA
+NA,Academic/Work-related tasks,Social media notifications,Early morning,Use Pomodoro (25/5),4,2,5,1,1,2,4,3,4
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Afternoon,Set a fixed work window,3,4,5,1,1,2,3,2,3
+NA,Other,Messaging apps,Night,Keep phone in another room,4,4,5,1,NA,2,3,2,2
+NA,Social media,Online videos/streaming,Late morning,Write a daily focus plan,3,5,9,0,3,1,3,NA,4
+NA,Social media,Online videos/streaming,Afternoon,Use blue-light filter at night,3,3,9,0,3,2,NA,4,3
+NA,"Entertainment (movies, gaming, etc.)",Online videos/streaming,Evening,Set a fixed work window,4,4,5,1,3,1,4,3,3
+NA,Academic/Work-related tasks,Messaging apps,Afternoon,Turn off notifications during deep work,4,4,7,0,1,2,3,4,NA
+NA,Social media,Social media notifications,Evening,Batch notifications and emails,4,5,5,0,1,1,4,2,3
+NA,Social media,Online videos/streaming,Evening,Turn off notifications during deep work,5,3,9,0,3,2,3,NA,4
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Early morning,Use app blockers during study hours,3,4,5,0,1,0,3,4,2
+NA,Academic/Work-related tasks,Social media notifications,Early morning,Batch notifications and emails,4,4,5,1,3,2,4,4,3
+NA,Other,Gaming,Early morning,Write a daily focus plan,3,4,5,1,1,3,4,4,NA
+NA,Academic/Work-related tasks,Online videos/streaming,Early morning,Batch notifications and emails,4,3,7,0,NA,2,3,4,3
+NA,Academic/Work-related tasks,Social media notifications,Afternoon,Single-task with full-screen apps,3,4,5,1,1,3,3,4,NA
+NA,Social media,Social media notifications,Afternoon,Turn off notifications during deep work,3,5,7,1,4,1,3,3,4
+NA,Social media,Messaging apps,Late morning,Batch notifications and emails,4,2,9,1,NA,3,2,4,3
+NA,Academic/Work-related tasks,Messaging apps,Afternoon,Schedule screen-free breaks,2,4,5,1,NA,1,2,NA,4
+NA,Academic/Work-related tasks,Social media notifications,Evening,Set a fixed work window,5,3,5,1,1,2,NA,NA,4
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Early morning,Use app blockers during study hours,2,5,9,1,3,1,NA,NA,4
+NA,Academic/Work-related tasks,Messaging apps,Afternoon,Set a fixed work window,2,2,5,1,4,2,3,3,2
+NA,Social media,Multitasking between tabs/apps,Afternoon,Keep phone in another room,4,3,3,1,NA,1,4,2,2
+NA,Social media,Online videos/streaming,Early morning,Turn off notifications during deep work,4,4,1,0,NA,1,4,3,3
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Evening,Single-task with full-screen apps,4,5,3,0,NA,1,NA,3,3
+NA,Social media,Online videos/streaming,Night,Turn off notifications during deep work,4,3,7,1,1,3,NA,4,4
+NA,Social media,Social media notifications,Early morning,Single-task with full-screen apps,3,3,7,0,4,2,3,2,3
+NA,Online shopping/browsing,Messaging apps,Early morning,Single-task with full-screen apps,2,5,5,0,4,1,3,NA,2
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Use app blockers during study hours,3,2,3,0,NA,0,2,3,4
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Afternoon,Set a fixed work window,3,1,5,0,NA,0,4,3,4
+NA,Academic/Work-related tasks,Messaging apps,Night,Set a fixed work window,4,4,9,0,4,1,3,2,4
+NA,Academic/Work-related tasks,Online videos/streaming,Late morning,Keep phone in another room,3,3,5,0,3,2,2,2,4
+NA,Social media,Online videos/streaming,Afternoon,Use app blockers during study hours,2,2,9,1,NA,1,3,4,4
+NA,Academic/Work-related tasks,Messaging apps,Early morning,Turn off notifications during deep work,3,4,9,1,1,0,3,3,4
+NA,Academic/Work-related tasks,Messaging apps,Afternoon,Keep phone in another room,4,4,1,0,3,0,NA,2,3
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Afternoon,Schedule screen-free breaks,3,3,7,0,1,3,4,2,2
+NA,Academic/Work-related tasks,Messaging apps,Early morning,Use app blockers during study hours,2,2,7,0,3,2,4,3,4
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Evening,Keep phone in another room,3,4,7,1,3,2,NA,NA,3
+NA,Other,Gaming,Evening,Write a daily focus plan,3,4,5,1,NA,1,4,3,3
+NA,Other,Social media notifications,Afternoon,Keep phone in another room,3,3,7,1,3,3,3,2,2
+NA,Academic/Work-related tasks,Social media notifications,Early morning,Turn off notifications during deep work,3,5,3,0,NA,3,NA,3,2
+NA,Academic/Work-related tasks,Messaging apps,Night,Keep phone in another room,3,2,5,1,1,1,4,3,4
+NA,Academic/Work-related tasks,Online videos/streaming,Evening,Use blue-light filter at night,2,2,5,1,NA,3,3,NA,3
+NA,Online shopping/browsing,Social media notifications,Late morning,Use blue-light filter at night,2,3,9,1,NA,0,3,3,4
+NA,"Entertainment (movies, gaming, etc.)",Gaming,Late morning,Write a daily focus plan,2,3,9,0,1,1,3,3,3
+NA,"Entertainment (movies, gaming, etc.)",Gaming,Late morning,Write a daily focus plan,3,4,5,0,NA,1,2,4,3
+NA,Academic/Work-related tasks,Online videos/streaming,Afternoon,Use blue-light filter at night,4,3,5,0,3,0,4,NA,4
+NA,Academic/Work-related tasks,Social media notifications,Late morning,Write a daily focus plan,5,4,3,1,NA,2,NA,NA,3
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Evening,Write a daily focus plan,4,2,9,1,NA,1,2,3,3
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Evening,Set a fixed work window,3,5,9,1,3,1,4,2,3
+NA,Social media,Social media notifications,Early morning,Set a fixed work window,3,3,5,1,NA,2,3,NA,3
+NA,Other,Messaging apps,Night,Keep phone in another room,2,5,7,1,3,1,3,3,3
+NA,Social media,Gaming,Afternoon,Use blue-light filter at night,3,4,7,1,NA,2,3,3,3
+NA,Academic/Work-related tasks,Social media notifications,Evening,Turn off notifications during deep work,3,4,3,1,3,0,3,3,3
+NA,"Entertainment (movies, gaming, etc.)",Messaging apps,Afternoon,Use blue-light filter at night,4,4,7,1,4,1,4,4,4
+NA,Academic/Work-related tasks,Online videos/streaming,Late morning,Use blue-light filter at night,2,4,7,0,NA,1,3,3,2
+NA,Social media,Social media notifications,Afternoon,Schedule screen-free breaks,4,4,7,0,3,1,4,3,3
+NA,Online shopping/browsing,Online videos/streaming,Night,Schedule screen-free breaks,5,5,7,1,3,2,4,3,3
+NA,Academic/Work-related tasks,Messaging apps,Late morning,Write a daily focus plan,3,4,1,0,3,2,3,3,NA
+NA,Academic/Work-related tasks,Social media notifications,Evening,Use Pomodoro (25/5),4,4,5,0,NA,2,3,3,3
+NA,Academic/Work-related tasks,Online videos/streaming,Afternoon,Set a fixed work window,4,3,1,0,3,2,3,3,4
+NA,Social media,Social media notifications,Late morning,Single-task with full-screen apps,3,5,9,1,3,2,4,4,2
+NA,Academic/Work-related tasks,Gaming,Late morning,Turn off notifications during deep work,3,3,9,1,1,2,4,3,3
+NA,Social media,Gaming,Afternoon,Schedule screen-free breaks,3,5,7,0,1,2,3,NA,4
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Late morning,Use blue-light filter at night,3,3,5,1,1,2,4,NA,3
+NA,Academic/Work-related tasks,Messaging apps,Evening,Use blue-light filter at night,2,2,3,0,NA,0,4,4,4
+NA,Social media,Social media notifications,Evening,Use Pomodoro (25/5),3,4,9,0,1,1,2,NA,3
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Early morning,Use Pomodoro (25/5),4,3,9,1,1,2,4,NA,NA
+NA,Academic/Work-related tasks,Messaging apps,Evening,Set a fixed work window,5,4,3,1,NA,3,3,3,NA
+NA,Online shopping/browsing,Social media notifications,Late morning,Schedule screen-free breaks,4,3,5,0,NA,1,4,3,3
+NA,"Entertainment (movies, gaming, etc.)",Social media notifications,Late morning,Turn off notifications during deep work,5,3,3,1,NA,1,3,2,3
+NA,Academic/Work-related tasks,Gaming,Afternoon,Turn off notifications during deep work,2,2,7,1,4,0,2,3,NA
+NA,Academic/Work-related tasks,Messaging apps,Late morning,Write a daily focus plan,4,3,7,1,3,2,2,2,NA
+NA,Academic/Work-related tasks,Gaming,Early morning,Write a daily focus plan,3,1,3,1,NA,0,4,NA,3
+NA,Academic/Work-related tasks,Online videos/streaming,Evening,Single-task with full-screen apps,5,2,5,0,NA,2,4,4,3
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Early morning,Batch notifications and emails,2,4,7,0,3,3,3,NA,3
+NA,Social media,Online videos/streaming,Late morning,Use blue-light filter at night,2,4,5,1,4,0,4,4,2
+NA,Academic/Work-related tasks,Multitasking between tabs/apps,Evening,Write a daily focus plan,3,4,9,0,3,2,2,2,2
+NA,"Entertainment (movies, gaming, etc.)",Multitasking between tabs/apps,Late morning,Single-task with full-screen apps,1,3,5,1,3,1,4,3,2
+NA,Social media,Online videos/streaming,Evening,Use Pomodoro (25/5),3,3,5,0,3,1,3,4,2
+NA,Academic/Work-related tasks,Online videos/streaming,Afternoon,Use blue-light filter at night,2,3,7,0,4,1,3,2,3
+NA,Academic/Work-related tasks,Messaging apps,Late morning,Write a daily focus plan,3,2,7,1,NA,1,4,4,3
+NA,Academic/Work-related tasks,Gaming,Early morning,Use app blockers during study hours,4,5,5,1,3,1,3,3,NA
+NA,"Entertainment (movies, gaming, etc.)",Messaging apps,Evening,Set a fixed work window,5,4,5,1,1,3,3,3,2
