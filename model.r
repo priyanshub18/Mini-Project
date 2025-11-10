@@ -1,15 +1,11 @@
 
 library(tidyverse)
-library(rpart)    
+library(rpart)
 library(rpart.plot) 
-
 
 
 file_name <- "ResponsesDma_preprocessed_R.csv"
 df <- read_csv(file_name)
-
-
-
 
 df <- df %>%
   mutate(Is_Productive = if_else(`Concentration Impact (1-5)` >= 4, 1, 0)) %>%
@@ -30,7 +26,6 @@ df_model <- df %>%
     
     Is_Productive
   )
-
 
 df_model <- df_model %>%
   mutate_if(is.character, as.factor)
