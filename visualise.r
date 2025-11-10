@@ -2,13 +2,9 @@
 library(tidyverse)
 library(scales) # For better label formatting
 
-# Load the preprocessed CSV file
 df <- read_csv("ResponsesDma_preprocessed_R.csv")
 
-# ----------------------------------------------------------------------
-# 1. Primary Screen Usage (Proportional Bar Chart)
-# Insight: Percentage breakdown of what occupies most of the respondents' time.
-# ----------------------------------------------------------------------
+-------------------------------------
 
 plot_primary_usage <- df %>%
   count(`Primary Screen Usage`) %>%
@@ -35,11 +31,6 @@ plot_primary_usage <- df %>%
   )
 
 print(plot_primary_usage)
-
-# ----------------------------------------------------------------------
-# 2. Most Distracting Activity (Top Categories - Enhanced Bar Chart)
-# Insight: Highlights the top distractions with count labels.
-# ----------------------------------------------------------------------
 
 plot_distraction <- df %>%
   count(`Most Distracting Activity`, sort = TRUE) %>%
